@@ -1,2 +1,2 @@
 # Abhishek_WPI_Story
-A data piece on August wpi
+A report on August wpi data
